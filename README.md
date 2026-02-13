@@ -21,7 +21,9 @@ A Blender addon that converts Digital Elevation Model (DEM) files into 3D-printa
 
 ## Screenshots
 
-*(Add screenshots of the sidebar panel and example output tiles here)*
+<img width="191" height="715" alt="image" src="https://github.com/user-attachments/assets/bd6d944b-1591-4618-8856-6ba5f8131307" />
+<img width="191" height="715" alt="image" src="https://github.com/user-attachments/assets/bd6d944b-1591-4618-8856-6ba5f8131307" />
+
 
 ## Prerequisites
 
